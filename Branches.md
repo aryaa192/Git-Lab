@@ -29,3 +29,8 @@ git branch -D <branch-name>
 ```
 git branch -a
 ```
+### To Switch another branch from main:
+```
+git checkout <branch-name>
+```
+
